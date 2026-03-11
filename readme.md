@@ -1,4 +1,4 @@
-📁 Portifólio Web – Victor Pimentel
+📁 Portfólio Web – Victor Pimentel
 --------------------------------------
 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript para apresentar minhas habilidades, projetos e experiência de forma clara, responsiva e visualmente agradável.
 
