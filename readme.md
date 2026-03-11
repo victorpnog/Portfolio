@@ -4,7 +4,7 @@ Portfólio pessoal desenvolvido com HTML, CSS e JavaScript para apresentar minha
 
 💻 Como Usar
 --------------------------------------
-Acesse o link: [git co](https://victorpnog.github.io/Portifolio/)
+Acesse o link: [git co](https://victorpnog.github.io/Portfolio/)
 
 💡 Sobre o Projeto
 --------------------------------------
